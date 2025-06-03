@@ -2,7 +2,7 @@
 
 About: This repository offers research material for the paper *A Uniform Assessment of Host-Based Intrusion Detection Data Sets*.
 
-[Pulication Link](https://doi.org/10.1016/j.cose.2025.104503)
+[Publication Link](https://doi.org/10.1016/j.cose.2025.104503)
 
 Corresponding author: Kevin Bergner (Kevin.Bergner@hs-coburg.de)
 
