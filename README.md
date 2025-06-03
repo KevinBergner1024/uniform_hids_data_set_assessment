@@ -1,4 +1,4 @@
-# Additional Paper Research Material: A Uniform Assessment of Host-Based Intrusion Detection Data Sets
+# Additional Research Material: A Uniform Assessment of Host-Based Intrusion Detection Data Sets
 
 About: This repository offers research material for the paper *A Uniform Assessment of Host-Based Intrusion Detection Data Sets*.
 
