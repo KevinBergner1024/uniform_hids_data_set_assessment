@@ -4,6 +4,6 @@ About: This repository offers research material for the paper *A Uniform Assessm
 
 [Publication Link](https://doi.org/10.1016/j.cose.2025.104503)
 
-Corresponding author: Kevin Bergner (Kevin.Bergner@hs-coburg.de)
+Corresponding Author: Kevin Bergner (Kevin.Bergner@hs-coburg.de)
 
-Contributing author: Dieter Landes (dieter.landes@hs-coburg.de)
+Contributing Author: Dieter Landes (dieter.landes@hs-coburg.de)
